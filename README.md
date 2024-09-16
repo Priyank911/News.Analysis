@@ -138,13 +138,13 @@ After a successful video upload and verification, the system generates a contrac
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/project-fna.git
+    git clone https://github.com/your-username/News.Analysis.git
     ```
 
 2. **Install Dependencies**
     Navigate to the project directory and install the required packages:
     ```bash
-    cd project-fna
+    cd News.Analysis
     npm install
     ```
 
